@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 and welcome.
+After a decade of C# software developement, WPF, .NET and electronics , I am currently exploring a new challenge by doing a ⚡⚡ **Python web dev bootcamp** ⚡⚡ with [HyperionDev](https://www.hyperiondev.com/). 
 
+![Image representing Web developement stacks ](https://3.imimg.com/data3/JJ/MK/MY-13845678/web-design-services-jpg-500x500.jpg)
+
+> [!Tip]
+>***"Write the book you want to read🔭"***
 <!--
 **TNadew/TNadew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
