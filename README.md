@@ -1,4 +1,4 @@
-### Hi there 👋 and welcome.
+### Hi there and welcome, Tamer Nadew here 👋 .
 After a decade of C# software developement, WPF, .NET and electronics , I am currently exploring a new challenge by doing a ⚡⚡ **Python web dev bootcamp** ⚡⚡ with [HyperionDev](https://www.hyperiondev.com/). 
 
 ![Image representing Web developement stacks ](https://3.imimg.com/data3/JJ/MK/MY-13845678/web-design-services-jpg-500x500.jpg)
